@@ -1,0 +1,9 @@
+﻿<Application x:Class="SFM.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:viewmodel="clr-namespace:SFM.ViewModel"
+             xmlns:local="clr-namespace:SFM">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
